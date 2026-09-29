@@ -1,0 +1,13 @@
+Put your actual photos in this folder using these exact filenames:
+YOUR_CHUCHI.jpg
+FAVOURITE_SIYA.jpg
+SIYA_MAD.jpg
+HAM_SE_NA_HOTA.jpg
+FOOTBALL.jpg
+BUNGEE.jpg
+CHINA.jpg
+RAFTING.jpg
+SHIP.jpg
+BEACH.jpg
+ARAB.jpg
+BALOCH.jpg
